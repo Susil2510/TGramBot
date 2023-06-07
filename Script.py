@@ -26,7 +26,7 @@ class script(object):
 
 @RSK_MOVIEz."""
 
-    ABOUT_TXT = """<b>✯ ᴍʏ ɴᴀᴍᴇ: {}
+    ABOUT_TXT = """<b>
 🤖 ᴍʏ ɴᴀᴍᴇ: <a href=https://t.me/{}>{}</a>  
 👨‍💻 ᴄʀᴇᴀᴛᴏʀ: <a href="https://t.me/Susil25sk">Sᴜsɪʟ Kᴜᴍᴀʀ</a>
 📚 ʟɪʙʀᴀʀʏ: <a href='https://docs.pyrogram.org/'>Pʏʀᴏɢʀᴀᴍ</a>
