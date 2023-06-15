@@ -32,7 +32,7 @@ class script(object):
 
 🌿ᴍᴀɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://t.me/Susil25sk'>Ʀsᴋ sᴜsɪʟ</a>
 
-🦋 ᴍʏ ʙᴇsᴛ ғʀɪᴇɴᴅ : <a href='tg://settings'>ᴄʟɪᴄᴋ ʜᴇʀᴇ🙌</b>"""
+🦋 ᴍʏ ʙᴇsᴛ ғʀɪᴇɴᴅ : <a href='tg://settings'>ᴄʟɪᴄᴋ ʜᴇʀᴇ🙌</a>"""
     
     HELP_TXT = """<b>Hᴇʏ {}
 ʜᴇʀᴇ ɪs ᴛʜᴇ ʜᴇʟᴘ ғᴏʀ ᴍʏ ᴄᴏᴍᴍᴀɴᴅs.</b>"""
