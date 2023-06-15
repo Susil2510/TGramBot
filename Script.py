@@ -16,7 +16,23 @@ class script(object):
 
     MOVIES_TXT = """🎯ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ʀsᴋ ᴍᴏᴠɪᴇᴢ ᴏꜰꜰɪᴄɪᴀʟ❣
 
-⚡️🍬ᴊᴏɪɴ ᴏᴜʀ ᴍᴏᴠɪᴇꜱ ᴄʜᴀɴɴᴇʟꜱ 🦋✨"""
+⚡️🍬ᴊᴏɪɴ ᴏᴜʀ ᴍᴏᴠɪᴇꜱ ᴄʜᴀɴɴᴇʟꜱ 🦋✨
+
+🔰✥ ▷<a href='https://t.me/RSK_movies'>ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ</a>
+
+🔰✥ ▷<a href='https://t.me/RSK_Backup'>ʀsᴋ ʙᴀᴄᴋᴜᴩ</a>
+
+🔰✥ ▷<a href='https://t.me/RSK_UPDTAES'>ʀsᴋ ᴜᴩᴅᴀᴛᴇs</a>
+
+🔰✥ ▷<a href='https://t.me/Susil_probot'>ʀsᴋ ʙᴏᴛ 1</a>
+
+🔰✥ ▷<a href='https://t.me/RSK_sam_bot'>ʀsᴋ ʙᴏᴛ 2</a>
+
+🔰✥ ▷<a href='https://t.me/RSK_MOVIEz'>ʀsᴋ ᴍᴏᴠɪᴇ ʀᴇǫᴜᴇsᴛ</a>
+
+🌿ᴍᴀɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://t.me/Susil25sk'>Ʀsᴋ sᴜsɪʟ</a>
+
+🦋 ᴍʏ ʙᴇsᴛ ғʀɪᴇɴᴅ : <a href='tg://settings'>ᴄʟɪᴄᴋ ʜᴇʀᴇ🙌</b>"""
     
     HELP_TXT = """<b>Hᴇʏ {}
 ʜᴇʀᴇ ɪs ᴛʜᴇ ʜᴇʟᴘ ғᴏʀ ᴍʏ ᴄᴏᴍᴍᴀɴᴅs.</b>"""
