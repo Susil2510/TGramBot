@@ -1,4 +1,4 @@
-yt-dlp
+yt_dlp
 asgiref
 pyrogram>=2.0.30
 tgcrypto
