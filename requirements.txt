@@ -15,7 +15,7 @@ telegraph
 aiohttp
 pyshorteners
 dnspython
-
+youtube_dl
 pyrogram>=2.0.30
 tgcrypto
 pymongo[srv]==3.12.3
