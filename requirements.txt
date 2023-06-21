@@ -30,7 +30,8 @@ imdbpy==2022.7.9
 heroku3
 datetime
 telegraph==2.2.0
-youtube-search-python
+youtube_search
+youtube-search-python==1.4.6
 youtube-search
 yt-dlp==2023.2.17
 aiofiles==22.1.0
